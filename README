@@ -9,3 +9,14 @@ gus_run.blend
 lowpoly_head.blend
         lowpoly head based on
         http://www.packtpub.com/article/character-head-modeling-in-blender-part1
+
+logo.blend
+        simple logo using beziere curves based on
+        http://wiki.blender.org/index.php/Doc:Tutorials/Modeling/Curves/B%C3%A9zier
+
+mine.blend
+        simple ride through mine animation based on
+        http://www.animationforcreation.com/2008/10/ride-through-mines.html
+
+reflections.blend
+        my own scene with mirror and few glasses
