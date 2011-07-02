@@ -29,3 +29,8 @@ e1m1
 
 gus_animation.blend
         my first "not so basic" animation attempt
+
+sequencer.blend
+        toying with sequencer and compositor
+        simple movie with monkey (motion blur + glow) over blender movie.
+        result is in movie.avi
